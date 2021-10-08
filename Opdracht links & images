@@ -1,0 +1,40 @@
+html>
+    <head>
+        <!-- Links, images, lists opdracht -->
+        <title> Info over mijzelf</title>
+    </head>
+    <body>
+       <h1>Mijn eerst HTML pagina</h1>
+       <h2>HTML document</h2>
+       <p>Hoe maak je een HTML document</p>
+       <hr>
+       <ul>De kleur van mijn ogen is bruin</ul>
+       <ul>Ik sport veel</ul>
+       <ul>Koken is mijn hobby</ul>
+       <hr>
+       <h1>Pasfoto</h1>
+       <img src="img/Foto Petra.JPG" 
+       <hr>
+       <h1>Verwijzing</h1>
+       <a href="index.html">Indexpagina</a>
+    </body>
+</html>
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- Links, images, lists opdracht -->
+        <title> HTML pagina met links</title>
+    </head>
+    <body>
+       <h1>Mijn eerst HTML pagina</h1>
+       <h2>HTML document</h2>
+       <p>Hoe maak je een HTML document</p>
+       <hr>
+       <ol>Kleur</ol>
+       <ol>Opmaak</ol>
+       <ol>Indeling</ol>
+       <hr>
+       <h1>Link naar about pagina</h1>
+       <a href="about.html">Aboutpagina</a> 
+    </body>
+</html>
